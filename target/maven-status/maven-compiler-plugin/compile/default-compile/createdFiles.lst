@@ -1,0 +1,10 @@
+com\mycompany\rmiversion3\Slave2.class
+com\mycompany\rmiversion3\Hello.class
+com\mycompany\rmiversion3\Client.class
+com\mycompany\rmiversion3\RmiImplHelloInterface.class
+com\mycompany\rmiversion3\Server.class
+com\mycompany\rmiversion3\Slave1.class
+com\mycompany\rmiversion3\Slave4.class
+com\mycompany\rmiversion3\StartRegistry.class
+com\mycompany\rmiversion3\Slave3.class
+com\mycompany\rmiversion3\Matrix.class
